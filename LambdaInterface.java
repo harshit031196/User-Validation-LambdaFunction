@@ -1,5 +1,5 @@
 
 @FunctionalInterface
-public interface lambdaInterface {
+public interface LambdaInterface {
 	boolean validate( String input);
 }
